@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment Files
+.env
+
+# MySQL Database files (if any)
+*.log
+*.sql
+*.sqlite
+
+# IDE configurations (e.g., VSCode)
+.vscode/
+
+# OS-specific files (e.g., Mac)
+.DS_Store
+Thumb
